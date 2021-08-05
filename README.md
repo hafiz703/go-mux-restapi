@@ -1,5 +1,9 @@
 ## Golang and MUX router REST API
- 
+---
+## Start Redis Server at Default Port(6379)
+```bash
+redis-server
+```
 
 ## Go Modules - Initialize the module for the app (from root dir)
 
